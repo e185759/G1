@@ -51,4 +51,6 @@ nal_G1_test2.pyを実行
 
 **特徴量選択**  
 
-引用引用
+上記の環境構築が終わったら
+python knn2.py
+python sgdp.py
