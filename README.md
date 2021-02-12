@@ -46,7 +46,7 @@ nal_G1_test1.pyを実行
 ・4つ目のモデル  
 nal_G1_test2.pyを実行  
   
-
+  
 **特徴量選択**  
 上記の環境構築が終わったら  
 python knn2.py  
@@ -56,6 +56,6 @@ python sgdp.py
 ## 開発者
 
 松田一秀   e185756@ie.u-ryukyu.ac.jp  
-比嘉信斗   e185756@ie.u-ryukyu.ac.jp  
-安和良祐   e185756@ie.u-ryukyu.ac.jp  
-高江洲壱星   e185756@ie.u-ryukyu.ac.jp  
+比嘉信斗   e185715@ie.u-ryukyu.ac.jp  
+安和良祐   e185708@ie.u-ryukyu.ac.jp  
+高江洲壱星   e185759@ie.u-ryukyu.ac.jp  
