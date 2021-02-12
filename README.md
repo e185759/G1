@@ -5,7 +5,7 @@
 
 ## 環境 
 **データセット**
-データセットのダウンロードは格pythonコード内にMNISTのlattersをローカルにダウンロードするコードを記述している。ダウンロード場所~/.keras/datasets  
+データセットのダウンロードは格pythonコード内にMNISTのlattersをローカルにダウンロードするコードを記述している。  ダウンロード場所~/.keras/datasets  
 一度ローカルにダウンロードすると2回目以降はダウンロードは行わない。
 > MNIST <http://yann.lecun.com/exdb/mnist/>
 
